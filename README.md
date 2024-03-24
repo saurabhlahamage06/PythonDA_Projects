@@ -1,2 +1,2 @@
 # PythonDA_Projects
-In this project I have analyze the sales of iphones with various charts.
+In this directory I have include the all projects related to python data analysis.
